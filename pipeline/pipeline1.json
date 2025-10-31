@@ -31,7 +31,10 @@
 						"type": "DatasetReference",
 						"parameters": {
 							"container": "browns",
-							"folder": "cdc",
+							"folder": {
+								"value": "@pipeline().parameters.folder",
+								"type": "Expression"
+							},
 							"file": "cdc.json"
 						}
 					},
