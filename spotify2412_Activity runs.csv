@@ -1,0 +1,6 @@
+"Activity name","Activity status","Error","Activity type","Run start","Duration","Integration runtime","User properties","Activity run ID","Log"
+"update last_cdc","Succeeded","","Copy","11/1/2025, 1:16:41 PM","16s","AutoResolveIntegrationRuntime (Central India)","{}","559f9a41-2ec6-4291-88a5-6695996698a2",""
+"max_cdc","Succeeded","","Script","11/1/2025, 1:16:30 PM","9s","AutoResolveIntegrationRuntime (Central India)","{}","9b1be74e-3e36-43c6-b77b-09796c5c64c8",""
+"If Condition1","Succeeded","","IfCondition","11/1/2025, 1:16:29 PM","31s","","{}","47df4462-f89f-40fb-b455-8df3c0222004",""
+"Copy data1","Succeeded","","Copy","11/1/2025, 1:16:10 PM","18s","AutoResolveIntegrationRuntime (Central India)","{}","f5f3aaa5-77a6-44a2-87b7-5149f36bbe38",""
+"Last_cdc","Succeeded","","Lookup","11/1/2025, 1:15:52 PM","17s","AutoResolveIntegrationRuntime (Central India)","{}","3263d7e1-7078-4aaf-8138-1613cbdd17d5",""
