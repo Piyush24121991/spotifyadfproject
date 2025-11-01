@@ -13,3 +13,6 @@ Backdated Data Handling: Supports reprocessing of historical data as per defined
 Data Transformation: Performs schema mapping, cleansing, and enrichment as part of the ETL workflow.
 
 Automation Ready: Easily adaptable for CI/CD and orchestrated executions through Azure Data Factory or other orchestration tools.
+
+image or screen shorts of complete pipeline which was i created in adf for storing a data in browns layer 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af666916-dbdd-47b5-86a2-8abe7da4f4fa" />
